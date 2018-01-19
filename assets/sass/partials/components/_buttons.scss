@@ -1,0 +1,7 @@
+// Button Styles
+// -------------
+
+button,
+a [type="button"] {
+  @include button-reset();
+}

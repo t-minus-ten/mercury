@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# Files
+npm-debug.log
+
+# /src files are built with gulp
+src
